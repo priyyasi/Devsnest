@@ -1,0 +1,38 @@
+body{
+    background-color:lemonchiffon;
+    background-image: url('devsnest.png');
+    background-repeat: no-repeat;
+    background-position: 935px 100px;
+    background-size: 350px 350px;
+    font-size: 22px;
+    margin-left: 25px;
+}
+h1{
+    background-color:indianred;
+    font-size:32px;
+}
+.date{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.sub{
+    font-size: 28px;
+}
+#font{
+    color: darkolivegreen;
+}
+#sub1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.res{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.add{
+    font-size: 20px;
+}
+.cur{
+    font-family:cursive;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
